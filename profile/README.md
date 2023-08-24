@@ -8,3 +8,4 @@
 
 [![](https://github-readme-stats.vercel.app/api?username=kloping&show_icons=true&theme=tokyonight)](https://github.com/gdpl2112)
 [![](https://github-readme-stats.vercel.app/api?username=Lewis-qq398529803&show_icons=true&theme=tokyonight)](https://github.com/gdpl2112)
+[![](https://github-readme-stats.vercel.app/api?username=memory-xkmy&show_icons=true&theme=tokyonight)](https://github.com/gdpl2112)
